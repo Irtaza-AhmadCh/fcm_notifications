@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1064967460626",
+    "project_id": "fire-notifications-b065c",
+    "storage_bucket": "fire-notifications-b065c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1064967460626:android:3669a6d6ca1c5b9899c5cb",
+        "android_client_info": {
+          "package_name": "com.ahmad.notification_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWUwSEzKtROe8wQP-binZe7KtPAO0IE8k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1064967460626:android:6df0d13fe6c3884b99c5cb",
+        "android_client_info": {
+          "package_name": "com.example.untitled"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWUwSEzKtROe8wQP-binZe7KtPAO0IE8k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
