@@ -5,7 +5,7 @@ import 'package:flutter/material.dart';
 import 'package:http/http.dart'as http;
 import 'package:untitled/services/user_permissions.dart';
 import '../services/firebase_notifiction_service.dart';
-import '../services/server_key.dart';
+import '../services/server_service.dart';
 
 class MainScreen extends StatefulWidget {
   const MainScreen({super.key});

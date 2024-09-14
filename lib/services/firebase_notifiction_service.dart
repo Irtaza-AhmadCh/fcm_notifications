@@ -6,7 +6,7 @@ import 'package:firebase_messaging/firebase_messaging.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_local_notifications/flutter_local_notifications.dart';
-import 'package:untitled/services/server_key.dart';
+import 'package:untitled/services/server_service.dart';
 import 'package:untitled/services/user_permissions.dart';
 import 'package:untitled/view/message_screen.dart';
 
