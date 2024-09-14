@@ -139,7 +139,7 @@ class NotificationServices {
 
 
    Future<dynamic> sendNotificationFromOneDeviceToOther (String? massage)async {
-    var serverKey = await ServerKeyService().getServiceKey();
+    var serverKey = await ServerService().getServiceKey();
     var deviceToken = await UserPermissions().getDeviceToken();
     print("Server key $serverKey");
     print("Device token $deviceToken");

@@ -1,6 +1,6 @@
 import 'package:googleapis_auth/auth_io.dart';
 
-class ServerKeyService {
+class ServerService {
   Future<String> getServiceKey() async {
     try{
     final scopes = [
